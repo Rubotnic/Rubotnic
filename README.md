@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rubotnic
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java and Phyton.
 - 💞️ I’m looking to collaborate on systems and games.
 - 📫 You can reach me with smoke signal. 🔥
 
